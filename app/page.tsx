@@ -315,7 +315,7 @@ export default function Home() {
             </div>
             
             <div className="grid grid-cols-2 md:grid-cols-2 gap-4 w-full max-w-sm">
-              <a href="https://github.com/chaniceg18-jpg" target="_blank" className="flex items-center justify-center gap-2 px-6 py-4 bg-white/5 border border-white/10 rounded-2xl font-bold uppercase tracking-widest text-[10px] hover:bg-orange-500 hover:text-black transition-all">
+              <a href="https://github.com/ChaniceGrant" target="_blank" className="flex items-center justify-center gap-2 px-6 py-4 bg-white/5 border border-white/10 rounded-2xl font-bold uppercase tracking-widest text-[10px] hover:bg-orange-500 hover:text-black transition-all">
                 <GitBranch className="w-4 h-4" /> GitHub
               </a>
               <a href="https://linkedin.com/in/chanice-grant" target="_blank" className="flex items-center justify-center gap-2 px-6 py-4 bg-white/5 border border-white/10 rounded-2xl font-bold uppercase tracking-widest text-[10px] hover:bg-orange-500 hover:text-black transition-all">
